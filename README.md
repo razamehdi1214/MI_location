@@ -3,7 +3,7 @@ This repository contains the codes and datasets used in our study on non-invasiv
 ## Strain Transformation and Preprocessing
 * **Strain_transformation/ES_strains.ipynb:** Python code for extracting cardiac strains at the end-systole timepoint from simulation datasets provided in the Strain_transformation/reference_files folder.
 * **Strain_transformation/strains_AHA.m:** MATLAB script for transforming strains into American Heart Association (AHA) format for machine learning inputs.
-* **Reference Files:** Includes .dat, .sta, fiber orientations, elements, nodes, and short-axis slice files for strain computation. [link](https://drive.google.com/drive/folders/1SV6Owg5v7aOsDtsXI9JdyM3tQ-Do-l4J?usp=drive_link)
+* **Reference Files:** Includes .dat, .sta, fiber orientations, elements, nodes, and short-axis slice files for strain computation. [link](https://drive.google.com/drive/folders/10PMcGg6hKKX7nFegb3-649ObGh3gZhqU?usp=drive_link)
 
 ## Estimation of Cardiac Strains from CMR
 * **Super-Resolution Reconstruction in Cardiac Magnetic Resonance (SRR in CMR):** This in-house built tool is used for estimating the four-dimensional motion of the heart using super-resolution reconstruction (SRR) of CMR images. This code is publicly available on [GitHub](https://github.com/Tanmay24Mukh/SRR_in_CMR.git).

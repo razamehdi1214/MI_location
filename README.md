@@ -9,7 +9,7 @@ This repository contains the codes and datasets used in our study on non-invasiv
 * **Super-Resolution Reconstruction in Cardiac Magnetic Resonance (SRR in CMR):** This in-house built tool is used for estimating the four-dimensional motion of the heart using super-resolution reconstruction (SRR) of CMR images. This code is publicly available on [GitHub](https://github.com/Tanmay24Mukh/SRR_in_CMR.git).
 
 ## Datasets
-* In-silico simulated cardiac strain datasets generated from finite element models. [link](https://drive.google.com/drive/folders/1SV6Owg5v7aOsDtsXI9JdyM3tQ-Do-l4J?usp=drive_link)
+* In-silico simulated cardiac strain datasets generated from finite element models. [link](https://drive.google.com/drive/folders/10PMcGg6hKKX7nFegb3-649ObGh3gZhqU?usp=drive_link)
 * Human CMR-derived strain data and corresponding infarct labels, organized for model training and evaluation.
 
 ## Machine Learning Models (`Multifidelity_codes`)
@@ -19,7 +19,7 @@ This repository contains the codes and datasets used in our study on non-invasiv
 
 ## Performance Evaluation (`Evaluation_metrics`)
 *	Codes for evaluating the ML model performance in predicting infarct regions using Dice Similarity Coefficient (DSC), Intersection over Union (IoU), and other metrics..
-*	Single-fidelity and multi-fidelity trained model weights for random initialization and leave one out cross-validation approaches. [link](https://drive.google.com/drive/folders/1SV6Owg5v7aOsDtsXI9JdyM3tQ-Do-l4J?usp=drive_link)
+*	Single-fidelity and multi-fidelity trained model weights for random initialization and leave one out cross-validation approaches. [link](https://drive.google.com/drive/folders/10PMcGg6hKKX7nFegb3-649ObGh3gZhqU?usp=drive_link)
 
 ## Note: 
-Due to the large size of the datasets, they are hosted on Google Drive and can be accessed using this [link](https://drive.google.com/drive/folders/1SV6Owg5v7aOsDtsXI9JdyM3tQ-Do-l4J?usp=drive_link).
+Due to the large size of the datasets, they are hosted on Google Drive and can be accessed using this [link](https://drive.google.com/drive/folders/10PMcGg6hKKX7nFegb3-649ObGh3gZhqU?usp=drive_link).
